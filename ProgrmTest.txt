@@ -1,0 +1,15 @@
+programme aTester;
+
+const x=26;
+	  Z=vrai
+
+var x1:bool;
+	b6:ent
+
+debut
+
+	si b6 alors
+		b6:= 5
+	fsi
+
+fin
